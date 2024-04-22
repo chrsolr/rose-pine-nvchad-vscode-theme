@@ -1,5 +1,8 @@
 ## Change Log
 
+### [0.0.2]
+
+- Added Extension Logo
 
 ### [0.0.2]
 

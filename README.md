@@ -16,9 +16,6 @@ A homage to the beloved Rose Pine NeoVim NvChad theme, this iteration serves as 
 #### Rust
 ![Rust](https://raw.githubusercontent.com/chrsolr/rose-pine-nvchad-vscode-theme/main/images/rust.png)
 
-#### Java
-![Java](https://raw.githubusercontent.com/chrsolr/rose-pine-nvchad-vscode-theme/main/images/java.png)
-
 #### CSS
 ![CSS](https://raw.githubusercontent.com/chrsolr/rose-pine-nvchad-vscode-theme/main/images/css.png)
 

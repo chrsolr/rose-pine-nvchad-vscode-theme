@@ -3,7 +3,7 @@
   "displayName": "Rose Pine NvChad VsCode Theme",
   "description": "Theme",
   "publisher": "chrsolr",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "engines": {
     "vscode": "^1.88.0"
   },
@@ -23,6 +23,7 @@
       }
     ]
   },
+  "icon": "images/logo.png",
   "__metadata": {
     "id": "3687c8de-614c-4958-a6e4-1243340e8cfd",
     "publisherId": "8e0805aa-38a3-49fb-8bbc-d1e9e81d6d7b",
