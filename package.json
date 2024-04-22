@@ -1,7 +1,8 @@
 {
-  "name": "Rose Pine NvChad VsCode Theme",
-  "displayName": "rose-pine-nvchad-theme",
+  "name": "rose-pine-nvchad-theme",
+  "displayName": "Rose Pine NvChad VsCode Theme",
   "description": "Theme",
+  "publisher": "chrsolr",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.88.0"
