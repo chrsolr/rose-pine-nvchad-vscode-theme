@@ -1,38 +1,38 @@
 {
-	"name": "rose-pine-nvchad-theme",
-	"displayName": "Rose Pine NvChad VsCode Theme",
-	"description": "Theme",
-	"publisher": "chrsolr",
-	"version": "0.0.1",
-	"engines": {
-		"vscode": "^1.88.0"
-	},
-	"repository": {
-		"type": "git",
-		"url": "https://github.com/chrsolr/rose-pine-nvchad-vscode-theme"
-	},
-	"categories": [
-		"Themes"
-	],
-	"contributes": {
-		"themes": [
-			{
-				"label": "rose-pine-nvchad-theme",
-				"uiTheme": "vs-dark",
-				"path": "./themes/rose-pine-nvchad-theme.json"
-			}
-		]
-	},
-	"__metadata": {
-		"id": "3687c8de-614c-4958-a6e4-1243340e8cfd",
-		"publisherId": "8e0805aa-38a3-49fb-8bbc-d1e9e81d6d7b",
-		"publisherDisplayName": "Christian Soler",
-		"targetPlatform": "undefined",
-		"updated": false,
-		"isPreReleaseVersion": false,
-		"hasPreReleaseVersion": false,
-		"installedTimestamp": 1713793031171,
-		"pinned": false,
-		"source": "gallery"
-	}
+  "name": "rose-pine-nvchad-theme",
+  "displayName": "Rose Pine NvChad VsCode Theme",
+  "description": "Theme",
+  "publisher": "chrsolr",
+  "version": "0.0.2",
+  "engines": {
+    "vscode": "^1.88.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/chrsolr/rose-pine-nvchad-vscode-theme"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "rose-pine-nvchad-theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/rose-pine-nvchad-theme.json"
+      }
+    ]
+  },
+  "__metadata": {
+    "id": "3687c8de-614c-4958-a6e4-1243340e8cfd",
+    "publisherId": "8e0805aa-38a3-49fb-8bbc-d1e9e81d6d7b",
+    "publisherDisplayName": "Christian Soler",
+    "targetPlatform": "undefined",
+    "updated": false,
+    "isPreReleaseVersion": false,
+    "hasPreReleaseVersion": false,
+    "installedTimestamp": 1713793031171,
+    "pinned": false,
+    "source": "gallery"
+  }
 }

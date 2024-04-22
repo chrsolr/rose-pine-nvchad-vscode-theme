@@ -5,22 +5,22 @@ A homage to the beloved Rose Pine NeoVim NvChad theme, this iteration serves as 
 ## Examples
 
 #### Typescript
-![Typescript](./images/ts.png)
+![Typescript](https://raw.githubusercontent.com/chrsolr/rose-pine-nvchad-vscode-theme/main/images/ts.png)
 
 #### C-Scharp
-![C#](./images/csharp.png)
+![C#](https://raw.githubusercontent.com/chrsolr/rose-pine-nvchad-vscode-theme/main/images/csharp.png)
 
 #### Go
-![Go](./images/go.png)
+![Go](https://raw.githubusercontent.com/chrsolr/rose-pine-nvchad-vscode-theme/main/images/go.png)
 
 #### Rust
-![Rust](./images/rust.png)
+![Rust](https://raw.githubusercontent.com/chrsolr/rose-pine-nvchad-vscode-theme/main/images/rust.png)
 
 #### Java
-![Java](./images/Java.png)
+![Java](https://raw.githubusercontent.com/chrsolr/rose-pine-nvchad-vscode-theme/main/images/java.png)
 
 #### CSS
-![CSS](./images/css.png)
+![CSS](https://raw.githubusercontent.com/chrsolr/rose-pine-nvchad-vscode-theme/main/images/css.png)
 
 #### XML
-![XML](./images/xml.png)
+![XML](https://raw.githubusercontent.com/chrsolr/rose-pine-nvchad-vscode-theme/main/images/xml.png)
