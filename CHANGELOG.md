@@ -1,9 +1,14 @@
-# Change Log
+## Change Log
 
-All notable changes to the "chrsolr" extension will be documented in this file.
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
+### [0.0.2]
 
-## [Unreleased]
+- Updated README with description and example images
+
+### [0.0.1]
 
 - Initial release
+
+## Known Issues
+
+- Hard to see links when holding CMD/CTRL keys.

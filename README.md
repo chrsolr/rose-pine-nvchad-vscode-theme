@@ -1,16 +1,26 @@
-# chrsolr README
+# Rose Pine NvChad Theme
 
-## Working with Markdown
+A homage to the beloved Rose Pine NeoVim NvChad theme, this iteration serves as a parallel port, albeit not a direct replication. As my inaugural venture into theme creation and extension, it's a unique interpretation that pays homage to its inspiration while introducing personal touches and adaptations. While it doesn't adhere strictly to a one-to-one replication, it stands as an evolution and expansion of the original concept, crafted with care and creativity.
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+## Examples
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+#### Typescript
+![Typescript](./images/ts.png)
 
-## For more information
+#### C-Scharp
+![C#](./images/csharp.png)
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+#### Go
+![Go](./images/go.png)
 
-**Enjoy!**
+#### Rust
+![Rust](./images/rust.png)
+
+#### Java
+![Java](./images/Java.png)
+
+#### CSS
+![CSS](./images/css.png)
+
+#### XML
+![XML](./images/xml.png)
