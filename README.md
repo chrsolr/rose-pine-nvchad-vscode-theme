@@ -5,7 +5,7 @@ A homage to the beloved Rose Pine NeoVim NvChad theme, this iteration serves as 
 ## Installation
 [VsCode Marketplace](https://marketplace.visualstudio.com/items?itemName=chrsolr.rose-pine-nvchad-theme)
 
-[Instal](vscode:extension/chrsolr.rose-pine-nvchad-theme)
+[Install Extension](vscode:extension/chrsolr.rose-pine-nvchad-theme)
 
 ## Examples
 
